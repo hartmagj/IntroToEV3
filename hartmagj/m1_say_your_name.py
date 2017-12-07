@@ -22,7 +22,7 @@ import ev3dev.ev3 as ev3
 
 
 def main():
-    ev3.Sound.speak("Nothing on Earth more Evil than a human educated as 1, when composed of opposites that cancel out as an entity.")
+    ev3.Sound.speak("Nothing on Earth more Evil than a human educated as 1, when composed of opposites that cancel out as an entity.").wait(20)
 
 
 main()

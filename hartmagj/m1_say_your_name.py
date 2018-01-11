@@ -59,162 +59,91 @@ def main():
 
     ev3.Sound.speak('    1 Educated Are Most Dumb.
 
-  Not 1 Human Except Dead 1.
-
-  Man Is Paired,  2 Half 4 Self.
-
-  1 of God Is Only 1/4 Of God.
-
-   Bible A Lie & Word Is Lies.
-
-   Navel Connects 4 Corner 4s.
-
-  God Is Born Of A Mother –
-
-   She Left Belly B. Signature.
-
-Every Priest Has Ma Sign
-
-  But Lies To Honor Queers.
-
-Belly B. Proves 4 Corners.
-
-
-
-Your dirty lying teachers
-
-use only the midnight to
-
-midnight 1 day (ignoring
-
-3 other days) Time to not
-
-foul (already wrong) bible
-
-   time. Lie that corrupts earth
-
-you educated stupid fools.
-
-
-
-GoBelly-Button  Logic Works.
-
-
-
-When   Do  Teenagers  Die?
-
-Adults Eat Teenagers Alive,
-
- No Record  Of  Their Death.
-
-  Father Son Image, Not Gods.
-
- Every Man Born Of Woman.
-
-
-
-
-
-Belly-Button Is the Signature
-
-Of  Your Personal Creator -
-
-I Believe Her Name Mama.
-
-
-
-Pastor Told His Flock That
-
-God Created All Of Them -
-
-   Truth Was That They All had
-
-Mama Made Belly Buttons,
-
-Church Was Full Of Liars.
-
-
-
-       Earth Has 4 Days In Same 24      Hrs., 1 Day God Was Wrong.
-
-Einstein  Was  ONEist  Brain.
-
-Try  My  Belly-Button  Logic.
-
-      No God Knows About 4 Days,     It  Is  Evil  To  Ignore 4 Days,
-
-Does Your Teacher Know ?
-
-
-
-Fraudulent ONEness of religious
-
-academia has retarded your opposite
-
-rationale brain to a half brain slave.
-
-YOU IGNORE 3 OF 4 DAYS -
-
-FORCE 4 DAYS ON EARTH,
-
-THEY ALREADY EXIST.
-
-4 HORSEMEN HAVE 4 DAYS
-
-IN ONLY 1 EARTH ROTATION.
-
-4 ANGLES STOOD ON 4 CORNERS.
-
-4 CORNERS ROTATE TO 16 CORNERS
-
-WHICH EQUAL TO 4 CORNER DAYS.
-
-TEACHERS ARE EVIL LIARS - THE
-
-ONEness OF GOD IS STILLness DEATH.
-
-YOU WERE ONEness RETARD ON THE
-EARTH OPPOSITES ALL YOUR  LIFE.
-LOVE OF GOD IS HATE OF CHILDREN.
-SUPPORT TIMECUBE OR BE CURSED.
-EARTH HAS 4 CORNER
-
-SIMULTANEOUS 4-DAY
-
-TIME CUBE
-
-WITHIN SINGLE ROTATION.
-
- 4 CORNER DAYS PROVES 1
-
-DAY 1 GOD IS TAUGHT EVIL.
-
-IGNORANCE OF TIMECUBE4
-
-SIMPLE MATH IS RETARDATION
-
-AND EVIL EDUCATION DAMNATION.
-
-CUBELESS AMERICANS DESERVE -
-
-AND SHALL BE EXTERMINATED.
-
-******************************************************************************
-
-The ONLY  Official Site
-For Gene Ray/TimeCube.
-Need Help - Donate to Timecube/Gene Ray at PayPal
-
-******************************************************************************
-I am a Knower of 4 corner
-simultaneous 24 hour Days
-that occur within a single
-4 corner rotation of Earth.
-*********************************************************************
-
-God guise for Queer
-scam, enslaves 4 Day
-
+    ev3.Sound.speak('    Not 1 Human Except Dead 1.
+
+    ev3.Sound.speak('    Man Is Paired,  2 Half 4 Self.
+
+    ev3.Sound.speak('    1 of God Is Only 1/4 Of God.
+
+    ev3.Sound.speak('    Bible A Lie & Word Is Lies.
+
+    ev3.Sound.speak('    Navel Connects 4 Corner 4s.
+
+    ev3.Sound.speak('    God Is Born Of A Mother –
+
+    ev3.Sound.speak('    She Left Belly B. Signature.
+
+    ev3.Sound.speak('Every Priest Has Ma Sign
+
+    ev3.Sound.speak('    But Lies To Honor Queers.
+
+    ev3.Sound.speak('Belly B. Proves 4 Corners.
+
+    ev3.Sound.speak('Your dirty lying teachers
+    ev3.Sound.speak('use only the midnight to
+    ev3.Sound.speak('midnight 1 day (ignoring
+    ev3.Sound.speak('3 other days) Time to not
+    ev3.Sound.speak('foul (already wrong) bible
+    ev3.Sound.speak('    time. Lie that corrupts earth
+    ev3.Sound.speak('you educated stupid fools.
+
+    ev3.Sound.speak('GoBelly-Button  Logic Works.
+    ev3.Sound.speak('When   Do  Teenagers  Die?
+    ev3.Sound.speak('Adults Eat Teenagers Alive,
+    ev3.Sound.speak('    No Record  Of  Their Death.
+    ev3.Sound.speak('    Father Son Image, Not Gods.
+    ev3.Sound.speak('    Every Man Born Of Woman.
+    ev3.Sound.speak('Belly-Button Is the Signature
+    ev3.Sound.speak('Of  Your Personal Creator -
+    ev3.Sound.speak('I Believe Her Name Mama.
+    ev3.Sound.speak('Pastor Told His Flock That
+    ev3.Sound.speak('God Created All Of Them -
+    ev3.Sound.speak('    Truth Was That They All had
+    ev3.Sound.speak('Mama Made Belly Buttons,
+    ev3.Sound.speak('Church Was Full Of Liars.
+    ev3.Sound.speak('Earth Has 4 Days In Same 24      Hrs., 1 Day God Was Wrong.
+    ev3.Sound.speak('Einstein  Was  ONEist  Brain.
+    ev3.Sound.speak('Try  My  Belly-Button  Logic.
+
+    ev3.Sound.speak('No God Knows About 4 Days,     It  Is  Evil  To  Ignore 4 Days,
+    ev3.Sound.speak('Does Your Teacher Know ?
+    ev3.Sound.speak('Fraudulent ONEness of religious
+    ev3.Sound.speak('academia has retarded your opposite
+    ev3.Sound.speak('rationale brain to a half brain slave.
+    ev3.Sound.speak('YOU IGNORE 3 OF 4 DAYS -
+    ev3.Sound.speak('FORCE 4 DAYS ON EARTH,
+    ev3.Sound.speak('THEY ALREADY EXIST.
+    ev3.Sound.speak('4 HORSEMEN HAVE 4 DAYS
+    ev3.Sound.speak('IN ONLY 1 EARTH ROTATION.
+    ev3.Sound.speak('4 ANGLES STOOD ON 4 CORNERS.
+    ev3.Sound.speak('4 CORNERS ROTATE TO 16 CORNERS
+    ev3.Sound.speak('WHICH EQUAL TO 4 CORNER DAYS.
+    ev3.Sound.speak('TEACHERS ARE EVIL LIARS - THE
+    ev3.Sound.speak('ONEness OF GOD IS STILLness DEATH.
+    ev3.Sound.speak('YOU WERE ONEness RETARD ON THE
+    ev3.Sound.speak('EARTH OPPOSITES ALL YOUR  LIFE.
+    ev3.Sound.speak('LOVE OF GOD IS HATE OF CHILDREN.
+    ev3.Sound.speak('SUPPORT TIMECUBE OR BE CURSED.
+    ev3.Sound.speak('EARTH HAS 4 CORNER
+    ev3.Sound.speak('SIMULTANEOUS 4-DAY
+    ev3.Sound.speak('TIME CUBE
+    ev3.Sound.speak('WITHIN SINGLE ROTATION.
+    ev3.Sound.speak('    4 CORNER DAYS PROVES 1
+    ev3.Sound.speak('DAY 1 GOD IS TAUGHT EVIL.
+    ev3.Sound.speak('IGNORANCE OF TIMECUBE4
+    ev3.Sound.speak('SIMPLE MATH IS RETARDATION
+    ev3.Sound.speak('AND EVIL EDUCATION DAMNATION.
+    ev3.Sound.speak('CUBELESS AMERICANS DESERVE -
+    ev3.Sound.speak('AND SHALL BE EXTERMINATED.
+    ev3.Sound.speak('The ONLY  Official Site
+    ev3.Sound.speak('For Gene Ray/TimeCube.
+    ev3.Sound.speak('Need Help - Donate to Timecube/Gene Ray at PayPal
+    ev3.Sound.speak('I am a Knower of 4 corner
+    ev3.Sound.speak('simultaneous 24 hour Days
+    ev3.Sound.speak('that occur within a single
+    ev3.Sound.speak('4 corner rotation of Earth.
+    ev3.Sound.speak('God guise for Queer
+    ev3.Sound.speak('scam, enslaves 4 Day
 cube brain as  ONEist.
 
 Vilify teachers - for
